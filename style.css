@@ -429,7 +429,7 @@ p.pac-info{
     padding: 10px;
 }
 .contact-form{
-    background: url(https://maps.googleapis.com/maps/api/staticmap?center=51.477222,0&zoom=12&size=800x400);border: 1px solid #eee;overflow: hidden;
+    background: url(#);border: 1px solid #eee;overflow: hidden;
 }
 .contact-form form{
     padding: 38px;background: rgba(255,255,255,0.89);
